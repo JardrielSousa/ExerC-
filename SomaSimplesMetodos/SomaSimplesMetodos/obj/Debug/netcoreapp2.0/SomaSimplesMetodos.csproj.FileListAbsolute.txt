@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\bin\Debug\netcoreapp2.0\SomaSimplesMetodos.deps.json
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\bin\Debug\netcoreapp2.0\SomaSimplesMetodos.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\bin\Debug\netcoreapp2.0\SomaSimplesMetodos.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\bin\Debug\netcoreapp2.0\SomaSimplesMetodos.dll
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\bin\Debug\netcoreapp2.0\SomaSimplesMetodos.pdb
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.dll
+C:\Users\Jardriel Sousa\source\repos\SomaSimplesMetodos\SomaSimplesMetodos\obj\Debug\netcoreapp2.0\SomaSimplesMetodos.pdb

@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\DobrarNum.deps.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\DobrarNum.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\DobrarNum.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\DobrarNum.dll
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\DobrarNum.pdb
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.dll
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\DobrarNum.pdb

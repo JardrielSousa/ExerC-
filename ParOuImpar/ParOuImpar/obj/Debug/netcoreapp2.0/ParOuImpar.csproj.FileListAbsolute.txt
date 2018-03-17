@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp2.0\ParOuImpar.deps.json
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp2.0\ParOuImpar.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp2.0\ParOuImpar.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp2.0\ParOuImpar.dll
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp2.0\ParOuImpar.pdb
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.dll
+c:\users\jardriel sousa\source\repos\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp2.0\ParOuImpar.pdb

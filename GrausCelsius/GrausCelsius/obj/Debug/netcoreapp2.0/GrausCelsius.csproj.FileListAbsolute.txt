@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\bin\Debug\netcoreapp2.0\GrausCelsius.deps.json
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\bin\Debug\netcoreapp2.0\GrausCelsius.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\bin\Debug\netcoreapp2.0\GrausCelsius.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\bin\Debug\netcoreapp2.0\GrausCelsius.dll
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\bin\Debug\netcoreapp2.0\GrausCelsius.pdb
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.dll
+C:\Users\Jardriel Sousa\source\repos\GrausCelsius\GrausCelsius\obj\Debug\netcoreapp2.0\GrausCelsius.pdb

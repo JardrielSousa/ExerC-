@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\somaP\somaP\bin\Debug\netcoreapp2.0\somaP.deps.json
+c:\users\jardriel sousa\source\repos\somaP\somaP\bin\Debug\netcoreapp2.0\somaP.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\somaP\somaP\bin\Debug\netcoreapp2.0\somaP.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\somaP\somaP\bin\Debug\netcoreapp2.0\somaP.dll
+c:\users\jardriel sousa\source\repos\somaP\somaP\bin\Debug\netcoreapp2.0\somaP.pdb
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.dll
+c:\users\jardriel sousa\source\repos\somaP\somaP\obj\Debug\netcoreapp2.0\somaP.pdb

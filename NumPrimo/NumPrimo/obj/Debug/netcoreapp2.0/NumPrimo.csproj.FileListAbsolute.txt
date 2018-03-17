@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\NumPrimo.deps.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\NumPrimo.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\NumPrimo.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\NumPrimo.dll
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.0\NumPrimo.pdb
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.dll
+c:\users\jardriel sousa\source\repos\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.0\NumPrimo.pdb
