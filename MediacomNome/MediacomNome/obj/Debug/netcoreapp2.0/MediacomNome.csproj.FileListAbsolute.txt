@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\bin\Debug\netcoreapp2.0\MediacomNome.deps.json
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\bin\Debug\netcoreapp2.0\MediacomNome.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\bin\Debug\netcoreapp2.0\MediacomNome.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\bin\Debug\netcoreapp2.0\MediacomNome.dll
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\bin\Debug\netcoreapp2.0\MediacomNome.pdb
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.dll
+C:\Users\Jardriel Sousa\source\repos\MediacomNome\MediacomNome\obj\Debug\netcoreapp2.0\MediacomNome.pdb

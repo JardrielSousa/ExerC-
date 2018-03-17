@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\bin\Debug\netcoreapp2.0\CalcFull.deps.json
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\bin\Debug\netcoreapp2.0\CalcFull.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\bin\Debug\netcoreapp2.0\CalcFull.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\bin\Debug\netcoreapp2.0\CalcFull.dll
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\bin\Debug\netcoreapp2.0\CalcFull.pdb
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.dll
+C:\Users\Jardriel Sousa\source\repos\CalcFull\CalcFull\obj\Debug\netcoreapp2.0\CalcFull.pdb

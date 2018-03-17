@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\bin\Debug\netcoreapp2.0\Maiorde10num.deps.json
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\bin\Debug\netcoreapp2.0\Maiorde10num.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\bin\Debug\netcoreapp2.0\Maiorde10num.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\bin\Debug\netcoreapp2.0\Maiorde10num.dll
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\bin\Debug\netcoreapp2.0\Maiorde10num.pdb
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.dll
+C:\Users\Jardriel Sousa\source\repos\Maiorde10num\Maiorde10num\obj\Debug\netcoreapp2.0\Maiorde10num.pdb

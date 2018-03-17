@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\bin\Debug\netcoreapp2.0\MediaFullDoisPesos.deps.json
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\bin\Debug\netcoreapp2.0\MediaFullDoisPesos.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\bin\Debug\netcoreapp2.0\MediaFullDoisPesos.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\bin\Debug\netcoreapp2.0\MediaFullDoisPesos.dll
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\bin\Debug\netcoreapp2.0\MediaFullDoisPesos.pdb
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.dll
+C:\Users\Jardriel Sousa\source\repos\MediaFullDoisPesos\MediaFullDoisPesos\obj\Debug\netcoreapp2.0\MediaFullDoisPesos.pdb

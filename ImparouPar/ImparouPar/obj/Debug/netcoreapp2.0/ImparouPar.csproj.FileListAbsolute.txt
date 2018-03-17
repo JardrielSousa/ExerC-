@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\bin\Debug\netcoreapp2.0\ImparouPar.deps.json
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\bin\Debug\netcoreapp2.0\ImparouPar.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\bin\Debug\netcoreapp2.0\ImparouPar.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\bin\Debug\netcoreapp2.0\ImparouPar.dll
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\bin\Debug\netcoreapp2.0\ImparouPar.pdb
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.dll
+C:\Users\Jardriel Sousa\source\repos\ImparouPar\ImparouPar\obj\Debug\netcoreapp2.0\ImparouPar.pdb

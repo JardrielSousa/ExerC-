@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\bin\Debug\netcoreapp2.0\ContImpar.deps.json
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\bin\Debug\netcoreapp2.0\ContImpar.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\bin\Debug\netcoreapp2.0\ContImpar.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\bin\Debug\netcoreapp2.0\ContImpar.dll
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\bin\Debug\netcoreapp2.0\ContImpar.pdb
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.dll
+c:\users\jardriel sousa\source\repos\ContImpar\ContImpar\obj\Debug\netcoreapp2.0\ContImpar.pdb

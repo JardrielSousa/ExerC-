@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\bin\Debug\netcoreapp2.0\Caneta.deps.json
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\bin\Debug\netcoreapp2.0\Caneta.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\bin\Debug\netcoreapp2.0\Caneta.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\bin\Debug\netcoreapp2.0\Caneta.dll
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\bin\Debug\netcoreapp2.0\Caneta.pdb
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.dll
+C:\Users\Jardriel Sousa\source\repos\Caneta\Caneta\obj\Debug\netcoreapp2.0\Caneta.pdb

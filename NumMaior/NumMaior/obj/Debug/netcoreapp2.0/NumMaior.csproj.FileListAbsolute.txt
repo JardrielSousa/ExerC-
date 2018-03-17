@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\bin\Debug\netcoreapp2.0\NumMaior.deps.json
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\bin\Debug\netcoreapp2.0\NumMaior.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\bin\Debug\netcoreapp2.0\NumMaior.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\bin\Debug\netcoreapp2.0\NumMaior.dll
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\bin\Debug\netcoreapp2.0\NumMaior.pdb
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.dll
+C:\Users\Jardriel Sousa\source\repos\NumMaior\NumMaior\obj\Debug\netcoreapp2.0\NumMaior.pdb
