@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\bin\Debug\netcoreapp2.0\Pessoa.deps.json
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\bin\Debug\netcoreapp2.0\Pessoa.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\bin\Debug\netcoreapp2.0\Pessoa.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\bin\Debug\netcoreapp2.0\Pessoa.dll
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\bin\Debug\netcoreapp2.0\Pessoa.pdb
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.dll
+C:\Users\Jardriel Sousa\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp2.0\Pessoa.pdb
