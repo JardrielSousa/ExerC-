@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\bin\Debug\netcoreapp2.0\ArrayQ3.deps.json
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\bin\Debug\netcoreapp2.0\ArrayQ3.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\bin\Debug\netcoreapp2.0\ArrayQ3.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\bin\Debug\netcoreapp2.0\ArrayQ3.dll
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\bin\Debug\netcoreapp2.0\ArrayQ3.pdb
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.dll
+C:\Users\Jardriel Sousa\source\repos\ArrayQ3\ArrayQ3\obj\Debug\netcoreapp2.0\ArrayQ3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\bin\Debug\netcoreapp2.0\SalarioFunc.deps.json
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\bin\Debug\netcoreapp2.0\SalarioFunc.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\bin\Debug\netcoreapp2.0\SalarioFunc.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\bin\Debug\netcoreapp2.0\SalarioFunc.dll
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\bin\Debug\netcoreapp2.0\SalarioFunc.pdb
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.dll
+C:\Users\Jardriel Sousa\source\repos\SalarioFunc\SalarioFunc\obj\Debug\netcoreapp2.0\SalarioFunc.pdb

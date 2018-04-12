@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\bin\Debug\netcoreapp2.0\CalcC.deps.json
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\bin\Debug\netcoreapp2.0\CalcC.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\bin\Debug\netcoreapp2.0\CalcC.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\bin\Debug\netcoreapp2.0\CalcC.dll
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\bin\Debug\netcoreapp2.0\CalcC.pdb
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.dll
+C:\Users\Jardriel Sousa\source\repos\CalcC\CalcC\obj\Debug\netcoreapp2.0\CalcC.pdb

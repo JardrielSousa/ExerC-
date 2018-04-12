@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\bin\Debug\netcoreapp2.0\arrayQ1.deps.json
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\bin\Debug\netcoreapp2.0\arrayQ1.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\bin\Debug\netcoreapp2.0\arrayQ1.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\bin\Debug\netcoreapp2.0\arrayQ1.dll
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\bin\Debug\netcoreapp2.0\arrayQ1.pdb
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.dll
+c:\users\jardriel sousa\source\repos\arrayQ1\arrayQ1\obj\Debug\netcoreapp2.0\arrayQ1.pdb

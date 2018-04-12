@@ -1,0 +1,11 @@
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.csprojResolveAssemblyReference.cache
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.csproj.CoreCompileInputs.cache
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.AssemblyInfoInputs.cache
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.AssemblyInfo.cs
+c:\users\jardriel sousa\source\repos\initarray\initarray\bin\Debug\netcoreapp2.0\initarray.deps.json
+c:\users\jardriel sousa\source\repos\initarray\initarray\bin\Debug\netcoreapp2.0\initarray.runtimeconfig.json
+c:\users\jardriel sousa\source\repos\initarray\initarray\bin\Debug\netcoreapp2.0\initarray.runtimeconfig.dev.json
+c:\users\jardriel sousa\source\repos\initarray\initarray\bin\Debug\netcoreapp2.0\initarray.dll
+c:\users\jardriel sousa\source\repos\initarray\initarray\bin\Debug\netcoreapp2.0\initarray.pdb
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.dll
+c:\users\jardriel sousa\source\repos\initarray\initarray\obj\Debug\netcoreapp2.0\initarray.pdb

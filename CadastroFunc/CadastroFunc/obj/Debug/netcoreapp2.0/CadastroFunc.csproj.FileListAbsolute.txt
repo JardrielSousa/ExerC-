@@ -1,0 +1,11 @@
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\bin\Debug\netcoreapp2.0\CadastroFunc.deps.json
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\bin\Debug\netcoreapp2.0\CadastroFunc.runtimeconfig.json
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\bin\Debug\netcoreapp2.0\CadastroFunc.runtimeconfig.dev.json
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\bin\Debug\netcoreapp2.0\CadastroFunc.dll
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\bin\Debug\netcoreapp2.0\CadastroFunc.pdb
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.csprojResolveAssemblyReference.cache
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.csproj.CoreCompileInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.AssemblyInfoInputs.cache
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.AssemblyInfo.cs
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.dll
+C:\Users\Jardriel Sousa\source\repos\CadastroFunc\CadastroFunc\obj\Debug\netcoreapp2.0\CadastroFunc.pdb
